@@ -1,0 +1,2 @@
+﻿  Multithreaded.cpp
+c:\users\admin\source\repos\myultithread\multithreaded\multithreaded.cpp(161): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
